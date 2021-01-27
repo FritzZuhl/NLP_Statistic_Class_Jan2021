@@ -1,0 +1,11 @@
+Recommended readings:
+Text Analytics with Python – 2nd Edition
+
+    Chapter 3: Processing and Understanding Text (till Bringing It All Together—Building a Text Normalizer)
+    Chapter 4: Feature Engineering for Text Representation (omit Advanced Feature Engineering Models)
+    Chapter 6: Text Summarization and Topic Models (read only sections on Keyphrase Extraction)
+    Chapter 9: Sentiment Analysis (only TextBlob Lexicon and VADER Lexicon)
+
+Supplement learning with hands-on examples from the book here: https://github.com/dipanjanS/text-analytics-with-python/tree/master/New-Second-Edition.
+
+
